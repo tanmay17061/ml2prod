@@ -14,3 +14,9 @@ The end state of this repository looks like following:
 
 ### Distant Future
 As this project matures, we would like to break components of pipelines into modular re-usable components. The exact how-tos of this are yet to be decided.
+
+## Pipelines
+Following [1], ...
+
+
+[1]: Huyen, Chip. Designing machine learning systems. " O'Reilly Media, Inc.", 2022.
