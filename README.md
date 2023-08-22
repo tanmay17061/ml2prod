@@ -9,13 +9,13 @@ This repository (ml2prod) is an attempt to reduce the gap between a regular (Com
 ### Foreseeable Future
 The end state of this repository looks like following:
 
-- [ ] Choose from a selection of ML system pipelines.  
-- [ ] Plug-and-play your dataset in the selected pipeline.
+- [ ] Choose from a selection of ML system configurations.
+- [ ] Plug-and-play your dataset in the selected configuration.
 
 ### Distant Future
-As this project matures, we would like to break components of pipelines into modular re-usable components. The exact how-tos of this are yet to be decided.
+As this project matures, we would like to break components of configurations into modular re-usable code. The exact how-tos of this are yet to be decided.
 
-## Pipelines
+## Configurations
 Following [1], ...
 
 
